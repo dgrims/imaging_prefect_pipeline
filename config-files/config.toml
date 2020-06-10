@@ -1,0 +1,11 @@
+[context.secrets]
+data_server_password = 'qdten016'
+
+[data_server]
+user = 'grimshandl'
+local_name = 'BW5-PC-4'
+remote_name='AXION'
+domain='AD'
+ip='147.142.18.81'
+data_root='data/'
+

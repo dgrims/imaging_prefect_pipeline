@@ -1,0 +1,13 @@
+setup.py
+eit-pipeline/__init__.py
+eit-pipeline/flows/__init__.py
+eit-pipeline/flows/extract_transmission.py
+eit-pipeline/flows/old_to_new_datastructure.py
+eit-pipeline/functions/__init__.py
+eit-pipeline/tasks/__init__.py
+eit-pipeline/tasks/filesystem.py
+eit-pipeline/tasks/io.py
+eit_pipeline.egg-info/PKG-INFO
+eit_pipeline.egg-info/SOURCES.txt
+eit_pipeline.egg-info/dependency_links.txt
+eit_pipeline.egg-info/top_level.txt

@@ -1,0 +1,18 @@
+seq_path: 2020_06_04/dDDSbluepro
+transmission_filename: transmission.h5
+
+mask_kwargs:
+  center_x: 10
+  center_y: -25
+  width_x: 130
+  width_y: 900
+
+polygon_mask_vertices:
+  - - 0
+    - 980
+  - - 150
+    - 980
+  - - 150
+    - -2050
+  - - 0
+    - -2050
